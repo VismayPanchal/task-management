@@ -8,6 +8,10 @@ In the project directory, you can run:
 
 ### `npm start`
 
+Use following command to start JSON server 
+### `json-server --port 4000 --watch db.json`
+
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
